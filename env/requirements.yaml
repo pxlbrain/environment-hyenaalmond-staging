@@ -27,7 +27,7 @@ dependencies:
   version: 0.0.37
 - name: ptag-api
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.14
+  version: 0.0.15
 - name: ptag-frontend
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.4
