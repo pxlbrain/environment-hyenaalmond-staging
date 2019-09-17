@@ -24,7 +24,7 @@ dependencies:
   version: 0.0.12
 - name: proxy-service
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.39
+  version: 0.0.41
 - name: ptag-api
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.20
