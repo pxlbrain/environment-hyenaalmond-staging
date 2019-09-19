@@ -21,7 +21,7 @@ dependencies:
   version: 0.0.38
 - name: product-service
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.16
+  version: 0.0.17
 - name: proxy-service
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.43
