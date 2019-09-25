@@ -16,6 +16,9 @@ dependencies:
 - name: inventory-service
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.16
+- name: pcrop-service
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.2
 - name: pdataset-api
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
