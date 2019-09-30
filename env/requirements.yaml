@@ -19,6 +19,9 @@ dependencies:
 - name: pcrop-service
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.5
+- name: pcrop-worker
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.10
 - name: pdataset-api
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.4
