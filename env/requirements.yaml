@@ -48,7 +48,7 @@ dependencies:
   version: 0.0.4
 - name: ptag-watchdog
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.3
+  version: 0.0.4
 - name: transaction-service
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.12
