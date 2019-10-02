@@ -2,6 +2,9 @@ dependencies:
 - name: core-api-service
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: core-camera-service
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: core-recogniser-service
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.77
