@@ -24,7 +24,7 @@ dependencies:
   version: 0.0.13
 - name: pdataset-api
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.6
+  version: 0.0.7
 - name: pkube-api
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.38
