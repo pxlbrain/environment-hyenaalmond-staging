@@ -27,7 +27,7 @@ dependencies:
   version: 2.3.89
 - name: frontend-app
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.26
+  version: 0.0.27
 - name: inventory-service
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.16
