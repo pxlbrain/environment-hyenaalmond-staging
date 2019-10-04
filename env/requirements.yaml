@@ -31,6 +31,9 @@ dependencies:
 - name: inventory-service
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.18
+- name: model-service
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.3
 - name: pcluster-standalone
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.10
