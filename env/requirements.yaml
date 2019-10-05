@@ -4,19 +4,19 @@ dependencies:
   version: 0.0.3
 - name: core-camera-service
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.2
+  version: 0.0.5
 - name: core-monitor-service
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.2
+  version: 0.0.3
 - name: core-recogniser-service
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.79
+  version: 0.0.81
 - name: core-rule-engine-service
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.3
 - name: core-sync-service
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.3
+  version: 0.0.4
 - alias: cleanup
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
@@ -27,10 +27,13 @@ dependencies:
   version: 2.3.89
 - name: frontend-app
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.29
+  version: 0.0.32
 - name: inventory-service
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.18
+  version: 0.0.20
+- name: model-service
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.9
 - name: pcluster-standalone
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.10
@@ -42,22 +45,22 @@ dependencies:
   version: 0.0.15
 - name: pdataset-api
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.9
+  version: 0.0.10
 - name: pdataset-worker
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.18
 - name: pkube-api
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.38
+  version: 0.0.40
 - name: pmodel-management-api
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.23
+  version: 0.0.24
 - name: product-service
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.25
 - name: proxy-service
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.56
+  version: 0.0.59
 - name: ptag-api
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.26
