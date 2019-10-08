@@ -51,7 +51,7 @@ dependencies:
   version: 0.0.15
 - name: pdataset-api
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.10
+  version: 0.0.11
 - name: pdataset-worker
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.19
