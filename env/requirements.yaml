@@ -61,6 +61,9 @@ dependencies:
 - name: pmodel-management-api
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.24
+- name: pmono-dataset
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: product-service
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.32
