@@ -84,7 +84,7 @@ dependencies:
   version: 0.0.6
 - name: ptag-proxy-api
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.5
+  version: 0.0.6
 - name: ptag-watchdog
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.16
