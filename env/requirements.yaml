@@ -90,7 +90,7 @@ dependencies:
   version: 0.0.16
 - name: ptransaction-watchdog
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.6
+  version: 0.0.7
 - name: transaction-service
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.12
