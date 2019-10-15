@@ -10,7 +10,7 @@ dependencies:
   version: 0.0.8
 - name: core-pos-emulator
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.2
+  version: 0.0.3
 - name: core-pos-service
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.7
