@@ -48,7 +48,7 @@ dependencies:
   version: 0.0.13
 - name: model-service
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.37
+  version: 0.0.39
 - name: pcluster-standalone
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.15
