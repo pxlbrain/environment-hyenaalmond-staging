@@ -99,4 +99,4 @@ dependencies:
   version: 0.0.13
 - name: transaction-service
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.22
+  version: 0.0.24
